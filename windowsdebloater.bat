@@ -1,0 +1,19 @@
+@echo off
+title Windows Debloater
+winget uninstall Microsoft.549981C3F5F10_8wekyb3d8bbwe
+winget uninstall Microsoft.GamingApp_8wekyb3d8bbwe
+winget uninstall Microsoft.GetHelp_8wekyb3d8bbwe
+winget uninstall Microsoft.Getstarted_8wekyb3d8bbwe
+winget uninstall Microsoft.MicrosoftStickyNotes_8wekyb3d8bbwe
+winget uninstall Microsoft.OneDriveSync_8wekyb3d8bbwe
+winget uninstall Microsoft.People_8wekyb3d8bbwe
+winget uninstall Microsoft.PowerAutomateDesktop_8wekyb3d8bbwe
+winget uninstall Microsoft.StorePurchaseApp_8wekyb3d8bbwe
+winget uninstall Microsoft.Todos_8wekyb3d8bbwe
+winget uninstall Microsoft.WindowsFeedbackHub_8wekyb3d8bbwe
+winget uninstall Microsoft.WindowsMaps_8wekyb3d8bbwe
+winget uninstall Microsoft.Xbox.TCUI_8wekyb3d8bbwe
+winget uninstall Microsoft.ZuneMusic_8wekyb3d8bbwe
+winget uninstall Microsoft.YourPhone_8wekyb3d8bbwe
+winget uninstall Microsoft.XboxSpeechToTextOverlay_8wekyb3d8bbwe
+pause
